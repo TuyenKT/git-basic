@@ -1,3 +1,5 @@
 Thực hành sử dụng git 
 aa
 bbb
+
+Tôi muốn thêm 1 dòng mới để thực hiện đồng bộ về local
